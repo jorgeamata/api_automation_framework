@@ -22,7 +22,7 @@ public class Test000_SimpleTest {
 	String baseUrl = "https://api.nasa.gov/";
 	String resource = "mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY";
 	
-	
+	String test = "";
 	
 	
 	
